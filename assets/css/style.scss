@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#header nav {
+    background: none;
+    box-shadow: none;
+}
+
+.material-icons {
+    &.success {
+        color: #49d549;
+    }
+
+    &.failure {
+        color: #d13939;
+    }
+}
+
