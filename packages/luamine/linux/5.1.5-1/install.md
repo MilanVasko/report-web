@@ -81,17 +81,17 @@
 stdout:
 -- Install configuration: ""
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/audiology.csv
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/weather.csv
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/weather1.csv
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/rowstest.txt
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/autos.arff
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/maxwellBig.csv
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/weatherMore.csv
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/weather.csv
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/maxwell100K.csv
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/audiology.csv
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/diabetes2.csv
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/diabetes.csv
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/maxwell.csv
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/autos.arff
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/luamine/data/diabetes.csv
 
 stderr:
 CMake Error at cmake_install.cmake:40 (file):
