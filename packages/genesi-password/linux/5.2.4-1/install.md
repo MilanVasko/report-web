@@ -12,10 +12,10 @@
 
 ## 2. Dependency solving
 
-- **Error:** Error getting dependency of "genesi-password 1.1-0": Package lua >= 5.3 needed, but selected at version 5.2.4-1.
+- **Error:** Error getting dependency of "genesi-password 1.1.0-0": Package lua >= 5.3 needed, but selected at version 5.2.4-1.
 - Trying to force usage of 'lua 5.3.2-1' to solve dependency resolving issues
 - **Error:** Package lua 5.2.4-1 needed, but installed at version 5.3.2-1.
 - Trying to force usage of 'lua 5.2.4-1' to solve dependency resolving issues
-- **Error:** Error getting dependency of "genesi-password 1.1-0": Package lua >= 5.3 needed, but installed at version 5.2.4-1.
+- **Error:** Error getting dependency of "genesi-password 1.1.0-0": Package lua >= 5.3 needed, but installed at version 5.2.4-1.
 - Trying to force usage of 'lua 5.1.5-1' to solve dependency resolving issues
 - **Error:** Package lua 5.2.4-1 needed, but installed at version 5.1.5-1.
